@@ -1,0 +1,291 @@
+1 Starts the deduction event.
+2 The Peppermint event is in progress.
+3 Exit the event.
+4 Start the voting system.
+5 The interactive event is being held.
+6 Exit the interactive window.
+7 Start the event at night.
+8 Start the home database.
+9 Start the New Year event.
+10 Star night event is being held.
+11 We are in the process of hosting a whiteboard.
+12 New Year events are in progress.
+13 Exit the event at night.
+14 Exit the home database.
+15 New Year event has ended.
+16 Start hard mode dungeon events.
+17 Hard mode dungeon events are in progress.
+18 End hard mode dungeon events.
+19 Start the MABINOGI Coupon Event.
+20 Congratulations! You are now ready to start the Death Dragon event.
+21 Start the treasure hunt and start the event.
+22 Start the MABINOGI Coupon Event.
+23 CONGRATULATION! DESERT DRAGON EVENT is being held.
+24 Treasure hunting events are being held.
+25 Start the MABINOGI Coupon Event.
+26 Congratulations! You are finished with the Death Drawing event.
+27 Find the treasure and exit the event.
+28 The cotton candy event will begin.
+29 Start a cookie tree event.
+30 Start the scent event of spring.
+31 Start the 'Keep the Dragon's Egg' event.
+32 Start your dream dream event.
+33 Start the 3rd anniversary event.
+34 The cotton candy event is in progress.
+35 Cookie tree event in progress.
+36 The scent of spring event is in progress.
+37 Keep the Dragon's Egg 'The event is in progress.
+38 Imp's dream event is in progress.
+39 The 3rd anniversary event is in progress.
+40 End Cotton Candy Event.
+41 Terminates the cookie tree event.
+42 We end scent event of spring.
+43 End Dragon's Egg 'event.
+44 End your dream dream event.
+45 Ends the third anniversary event.
+46 Legend of the Dragon starts the event.
+47 Start the 4th anniversary event.
+48 Legendary events for are in progress.
+49 The 4th anniversary event is in progress.
+50 legendary event has ended.
+51 Ends the 4th anniversary event.
+52 Legend of the Dragon Begin the event.
+53 The legendary event of the dragon is in progress.
+54 Dragon ends the legendary event.
+55 Start the event
+56 The event is ongoing.
+57 Exit the event at night.
+58 The puzzle event has started.
+59 The puzzle event is in progress.
+60 The puzzle even has ended faggot.
+61 The schooling event has started. During the event, the character looks 9 years old.
+62 school events are in progress. During the event, the character looks 9 years old.
+63 The schooling event has ended.
+64 "Begging with the candy will not hurt" event to begin.
+65 "I will bother you if you do not have candy" event is in progress.
+66 End the event "I will bother you if you do not like candy".
+67 Starts a memorial event.
+68 Memorial events are in progress.
+69 Exit the memorial event.
+70 Begin 3rd anniversary event.
+71 Start a party quest event.
+72 The 3rd anniversary event is in progress.
+73 Party quest events are in progress.
+74 Ends the 3rd anniversary event.
+75 End Party Quest Event.
+76 Start the cleartime event.
+77 The crash event is in progress.
+78 Exit the crash event.
+79 The Gachapon secret shop event begins.
+80 Begin the Thanksgiving event.
+81 Gachapon secret shop event is in progress.
+82 Thanksgiving event is in progress.
+83 The Gachapon secret shop event ends.
+84 Thanksgiving event has ended.
+85 Start a fishing event.
+86 Fishing events are in progress.
+87 End fishing event.
+88 Start the New Spring event.
+89 New Spring event is being held.
+90 End the new spring event.
+91 Start the installation of the project.
+92 There are events to be held.
+93 Exit the project. Exit the project.
+94 Start the tonnage event.
+95 The tournament event is being held.
+96 Exit the tonnage event.
+97 G10 Starts the Mainstream Clear Event.
+98 G10 Mainstream clear event in progress.
+99 G10 Ends the mainstream clear event.
+100 Christmas events will begin.
+101 Christmas events are in progress.
+102 End Christmas Event.
+103 Valentine's Day event has started.
+104 Valentine event is in progress.
+105 Valentine's Event has ended.
+106 Begin the New Year's Triple Money Event.
+107 New Year's Day Money Event is in progress.
+108 End of New Year's Day Money Event.
+109 Start the virtual event.
+110 Starts the vacation database.
+111 The virtual in-venue is open.
+112 The date store is open.
+113 Exit the voting event.
+114 Exit the whiteboard.
+115 Start the New Year event.
+116 New Year's Day event is in progress.
+117 End the New Year event.
+118 The 4th anniversary celebration event is started.
+119 The 4th Anniversary Celebration Event is being held.
+120 Ends the 4th anniversary celebration event.
+121 Start Valentine's Day event.
+122 Starts the White Day event.
+123 Valentine's event is in progress.
+124 White Day events are in progress.
+125 Valentine event ended.
+126 Exit White Day event.
+127 Start the treasure chest event.
+128 treasure chest events are in progress.
+129 Exits the treasure chest event.
+130 Start the Fitting Contest Event.
+131 F i tion con t e st e nt is open.
+132 Exit the Fitting Contest Event.
+133 Start a treasure hunt event in Iria.
+134 The 4th Anniversary Commemorative Cotton Amount Event will be launched.
+135 The treasure hunt is in progress in Iria.
+136 The 4th anniversary of the cotton candy event is being held.
+137 End treasure hunting event in Iria.
+138 End of 4th Anniversary Commemorative Cotton Amount Event.
+139 Cookies start fishing events.
+140 Cookie fishing events are in progress.
+141 Cookies End fishing events.
+142 dungeon event has started.
+143 Start the 4th anniversary event.
+144 Dungeon events are in progress.
+145 The 4th anniversary event is in progress.
+146 End dungeon events.
+147 Ends the 4th anniversary event.
+148 Start the Mabinogi travel event.
+149 Start Mabinogi travel event.
+150 Begin 5th anniversary fireworks event.
+151 Mabinogi travel event is in progress.
+152 Mabinogi travel event is in progress.
+153 The 5th anniversary fireworks event is in progress.
+154 Mabinogi ends the travel event.
+155 Mabinogi ends the travel event.
+156 Ends the 5th anniversary fireworks event.
+157 Start the shuttle event.
+158 Join the guild The event will begin.
+159 The Rotem Gum Event is now open.
+160 Join the guild The event is in progress. Guild master, please check the guild seats.
+161 Exit the shuttle event.
+162 Collect Guild Seats Event ends.
+163 F o re s u rro rm atio n Start the event.
+164 Request a Fukuoka event is being held.
+165 Close the window. Close the event.
+166 The Mabinogi diary event begins.
+167 Mabinogi diary event is in progress. You can check attendance records on the homepage.
+168 Ends Mabinogi diary event.
+169 G1 Downward
+170 G1 Downward
+171 G1 Downward
+172 Rab's gift event begins.
+173 Rab's gift event is in progress.
+174 End of Rab's gift event.
+175 Start the clustered event.
+176 G12 Starts the countdown event.
+177 Starts the G12 Update event.
+178 Start the cluster-specific event.
+179 The crash event is being held.
+180 G12 Countdown event is in progress.
+181 G12 Update event is in progress.
+182 The labia is in the process of being held.
+183 Exit the crash event.
+184 G12 Ends the countdown event.
+185 End the G12 update event.
+186 Exit the crash event.
+187 Starts the New Year event.
+188 The New Year event is being held.
+189 Ends the New Year event.
+190 Start the voting event.
+191 The virtual event is being held.
+192 Exit the interactive event.
+193 Cash item free payment event will start
+194 Cash items free payment event in progress
+195 Cash item free payment event ends
+196 St. Patrick's Day event begins.
+197 St. Peter's Day event is underway.
+198 St. Patrick's Day event is over.
+199 Starts the vacation database.
+200 WHITE DYEVENT is being held.
+201 Close the whiteboard.
+202 Start the Easter event.
+203 Easter events are in progress.
+204 End the Easter event.
+205 The Children's Day event begins.
+206 New semester spring event will start.
+207 The Children's Day event is in progress.
+208 New semester spring flower event is in progress.
+209 The Children's Day event ends.
+210 New semester spring event will end.
+211 The second anniversary event begins.
+212 The second anniversary event is in progress.
+213 The 2nd anniversary event is over.
+214 Panther Starts the headband event.
+215 Panther headband present event in progress.
+216 Panther headband presentation event ends.
+217 2010 CAMP Cookbook Festivals Start the event.
+218 2010 CAMP Cooking Festiva
+219 2010 Camp Culinary Festival End the event.
+220 Camp Culinary Dishes Festival events will begin.
+221 2010 Camp Culinary Festival Event is underway.
+222 The 2010 Camp Culinary Festival event will end.
+223 Balloon revival event is started.
+224 Balloon revival event is underway.
+225 End balloon revival event.
+226 The Dolphin Event begins.
+227 I will start a giant event from flowers.
+228 Monsoon events are in progress.
+229 Giant events are being held from flowers.
+230	The Dance Festival event ends
+231 I will finish the giant event from flowers.
+232 I will start a giant event from flowers.
+233 5th anniversary commemorative fishing event will start.
+234 Giant events are being held from flowers.
+235 5th anniversary fishing event is underway.
+236 I will finish the giant event from flowers.
+237 5th anniversary commemorative fishing event is over.
+238 Start cup event.
+239 The cup event begins.
+240 The cup event begins.
+241 World Cup events are in progress.
+242 World Cup events are cliched.
+243 World Cup events are cliched.
+244 The cup cup event ends.
+245 End the cup event.
+246 The cup cup event ends.
+247 World Cup events begin.
+248 World Cup event is Jincheon.
+249 The cup event is over.
+250 Start the Korea Supporting Event.
+251 I am participating in the Korean support event.
+252 End the support event.
+253 South Korea Match Results! Start the event.
+254 Match the results of the Republic of Korea! The event is equivalent to either Jean.
+255 South Korea Match the results! End the event.
+256 Start an ancient treasure box event.
+257 An ancient treasure box event is underway.
+258 The ancient treasure chest event ends.
+259 Start the event of independence.
+260 The Liberation Day event is in progress.
+261 Completes the Completion event.
+262 Pet Character Start dungeon event.
+263 Pet character dungeon event is underway.
+264 The pet character dungeon event is finished.
+265 Chapter 4 Celebration Mission starts an event.
+266 Chapter 4 Celebration Mission An event is being held.
+267 Chapter 4 Celebration Mission End the event. 
+268 The character free-to-change event starts with where.
+269 ja jung Free foreign exchange change event is in the middle.
+270 The character free-to-charge change event ends.
+271 The trail event will begin.
+272 The WinRunWin event starts.
+273 Start Halloween event.
+274 The event is canceled.
+275 The Win Rowin event is Jincheon.
+276 Halloween event is underway.
+277 End the trail erroneous event.
+278 End of the Win Rowin event.
+279 I will finish the Halloween event.
+280 Paid fishing event begins.
+281 Paid fishing event is in the middle of a cliche.
+282 Paid fishing event ends.
+283 Steel Alchemist - Start a hidden title collection event.
+284 Fullmetal Alchemist - A hidden title collection event is underway.
+285 Fullmetal Alchemist - End a hidden title collection event.
+286 Today's mission, today's box event will start.
+287 Today's mission, today's box event is being held.
+288 Today's mission, today's box event will end.
+289 Guild Member The event will begin.
+290 Guild Member The event is Jindo.
+291 Guild Member Summon Event ends.
